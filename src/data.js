@@ -264,6 +264,251 @@ function chillHop() {
             audio: "https://dc583.4shared.com/img/C-kCgoaKiq/69d59003/dlink__2Fdownload_2FC-kCgoaKiq_2Fainara.mp3_3Fsbsr_3D127f70cadac0244184e230730d14acf2ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
+        {
+            name:"ainhoa",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/AIb9UFi-iq/d72ef887/dlink__2Fdownload_2FAIb9UFi-iq_2Fainhoa.mp3_3Fsbsr_3Dae348c25c4ab4c42e152ebd6d95e287bab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+        {
+            name:"ainoa",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc606.4shared.com/img/Emj9PD4Cea/91ea7387/dlink__2Fdownload_2FEmj9PD4Cea_2Fainoa.mp3_3Fsbsr_3D75b0943e23eeea68288015b8b87fbcd4ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+        {
+            name:"aitana",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/10aRJ_t7ea/e042ed3f/dlink__2Fdownload_2F10aRJ_5Ft7ea_2Faitana.mp3_3Fsbsr_3Dddacb07ca5d6ed01d8d012ecc3974667ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+        {
+            name:"aitor",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/iHSvDM-Piq/926ea7e9/dlink__2Fdownload_2FiHSvDM-Piq_2Faitor.mp3_3Fsbsr_3Deb08a505ace271320ab7f2fe7e826b72ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+        {
+            name:"aixa",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/v3UDcNaZea/fdb0cc09/dlink__2Fdownload_2Fv3UDcNaZea_2Faixa.mp3_3Fsbsr_3Dcfe80ea4c222cc651df116e41ec89842ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },    
+        {
+            name:"akram",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/6Ntinq7fiq/d65c17b4/dlink__2Fdownload_2F6Ntinq7fiq_2Fakram.mp3_3Fsbsr_3D8fc062668f1356ab1897fba70f302e07ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+        {
+            name:"alan",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc606.4shared.com/img/nM9pTk9Tiq/989db7d2/dlink__2Fdownload_2FnM9pTk9Tiq_2Falan.mp3_3Fsbsr_3Dfba0eee506e2d14331053b65477e8c40ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+        {
+            name:"alba",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/78FzsJp3iq/fa5edcf8/dlink__2Fdownload_2F78FzsJp3iq_2Falba.mp3_3Fsbsr_3Dfe597426b2039224a4d97a098a96cefeab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+        {
+            name:"albamaria",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/WM4tCjUziq/d19d66e2/dlink__2Fdownload_2FWM4tCjUziq_2Falbamaria.mp3_3Fsbsr_3D43c1d1e9df956f07ea751a5d6d1d9d51ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+        {
+            name:"alberto",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc606.4shared.com/img/2rpAgVp0ea/2e3bd0fb/dlink__2Fdownload_2F2rpAgVp0ea_2Falberto.mp3_3Fsbsr_3Dc855dc3f4f3c35d3907099ef4f9265b8ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+        {
+            name:"aleix",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/ZXkB99_Hiq/b88e87ff/dlink__2Fdownload_2FZXkB99_5FHiq_2Faleix.mp3_3Fsbsr_3D4979b3884790c6004e26b11f7638b2f4ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alejandra",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/h4ol--lYea/1a21c8bf/dlink__2Fdownload_2Fh4ol--lYea_2Falejandra.mp3_3Fsbsr_3D126295e19108c9d2eb3ff56f857f9832ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alejandro",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/Yy0yvy_hiq/bca61ff6/dlink__2Fdownload_2FYy0yvy_5Fhiq_2Falejandro.mp3_3Fsbsr_3Df0997383ee682046aac873bcb57d85f1ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alessandro",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc606.4shared.com/img/jibPHFZ6iq/55cceb37/dlink__2Fdownload_2FjibPHFZ6iq_2Falessandro.mp3_3Fsbsr_3D2d76905ac073839a9e8e10f0b2450a66ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alessia",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/Y-y1DH2ziq/54246768/dlink__2Fdownload_2FY-y1DH2ziq_2Falessia.mp3_3Fsbsr_3D7742b34f1b80c7f1f8f6af1efbbc561bab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alex",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc606.4shared.com/img/bCMP1KZpiq/e9fe3f39/dlink__2Fdownload_2FbCMP1KZpiq_2Falex.mp3_3Fsbsr_3D4ff2b6e69b170fa3d4ad818109c731f6ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alexander",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc606.4shared.com/img/uRacxVz4ea/6baae19b/dlink__2Fdownload_2FuRacxVz4ea_2Falexander.mp3_3Fsbsr_3D40bf2207bafc463081824e818f5d6d84ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alexandra",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/SRAM3XsGea/e5a2812c/dlink__2Fdownload_2FSRAM3XsGea_2Falexandra.mp3_3Fsbsr_3D912772968d11d3566f66c134340918c0ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alexandre",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/IprfFJA6ea/5b59e9a8/dlink__2Fdownload_2FIprfFJA6ea_2Falexandre.mp3_3Fsbsr_3D9e4f8bf49839f2a251fc6ea8a8235244ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alexia",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/TUmDxEqOea/9b51a107/dlink__2Fdownload_2FTUmDxEqOea_2Falexia.mp3_3Fsbsr_3D7b93a07a427dd99a073b84896dd121e8ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alez",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc606.4shared.com/img/mSg22Sgqea/a84b406b/dlink__2Fdownload_2FmSg22Sgqea_2Falez.mp3_3Fsbsr_3Dfae0803c52b037b0e560b7fe3d1bc94cab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alfonso",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc606.4shared.com/img/5aha6mjrea/d6da4493/dlink__2Fdownload_2F5aha6mjrea_2Falfonso.mp3_3Fsbsr_3D352c7a2fe53d5717e91b3897aa1048ceab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alfred",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc606.4shared.com/img/bp-wS6UTiq/a716b6ee/dlink__2Fdownload_2Fbp-wS6UTiq_2Falfred.mp3_3Fsbsr_3D24594fbe1f094046dc1dfbd308a3dba9ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alfredo",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/LfgiPm7mea/44a033b3/dlink__2Fdownload_2FLfgiPm7mea_2Falfredo.mp3_3Fsbsr_3D49bd1157e04fb00088f77769120c47e2ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"ali",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/o3hbeDPtiq/cd0d4e97/dlink__2Fdownload_2Fo3hbeDPtiq_2Fali.mp3_3Fsbsr_3D0afe5674fa7874209f042f428dd74891ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alicia",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/EjEhPc7Sea/ed92b3b0/dlink__2Fdownload_2FEjEhPc7Sea_2Falicia.mp3_3Fsbsr_3Dae9ff8d7bd34487ee65deb600748cbdeab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+         {
+            name:"alma",
+            artist: "Nombre",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://dc583.4shared.com/img/y-H3Lh37ea/9ddaef71/dlink__2Fdownload_2Fy-H3Lh37ea_2Falma.mp3_3Fsbsr_3Dce394ed330a3bfd58390710f5a535813ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
+            active: fals
+         },
+        
+        
     ];
 }
 
