@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "http://pureplay.cdnstream1.com/6011_128.mp3",
+            audio: "https://dc606.4shared.com/img/s_u7Yaipea/9d7a3c80/dlink__2Fdownload_2Fs_5Fu7Yaipea_2Faaron.mp3_3Fsbsr_3D6faf0daef57e7db89cc81140821ad6b1ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: true,
         },
         {
