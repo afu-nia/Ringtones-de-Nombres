@@ -506,9 +506,7 @@ function chillHop() {
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/y-H3Lh37ea/9ddaef71/dlink__2Fdownload_2Fy-H3Lh37ea_2Falma.mp3_3Fsbsr_3Dce394ed330a3bfd58390710f5a535813ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: fals
-         },
-        
-        
+       },
     ];
 }
 
