@@ -19,7 +19,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://dc606.4shared.com/img/hCqoPZ88ea/ecdbf3cc/dlink__2Fdownload_2FhCqoPZ88ea_2Fabdelhakim.mp3_3Fsbsr_3D738cb4ceabfda8610f6bd6246221b58fab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"abel",
@@ -28,7 +28,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://dc606.4shared.com/img/doUsf39Ziq/dba4cfdd/dlink__2Fdownload_2FdoUsf39Ziq_2Fabel.mp3_3Fsbsr_3D45e87e3208ed4bac84fd12c1c708f9f2ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"abraham",
@@ -37,7 +37,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/zzNYy1Lyea/133625d/dlink__2Fdownload_2FzzNYy1Lyea_2Fabraham.mp3_3Fsbsr_3Dd63b01e65fa5e74781fc3dd518df2a78ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Abril",
@@ -46,7 +46,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
             audio: "https://dc606.4shared.com/img/a3v3-ahsiq/f30d4870/dlink__2Fdownload_2Fa3v3-ahsiq_2Fabril.mp3_3Fsbsr_3D7ce8158995fc9c5ec6d65d3bfabdac80ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Achraf",
@@ -55,7 +55,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
             audio: "https://dc583.4shared.com/img/Y_1TaPKsiq/350f4a4a/dlink__2Fdownload_2FY_5F1TaPKsiq_2Fachraf.mp3_3Fsbsr_3Df8e1839a4b19b9c027deb13ad59d6b90ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Ada",
@@ -64,7 +64,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#191516", "#82698E"],
             audio: "https://dc583.4shared.com/img/P9n0_owYea/d418c963/dlink__2Fdownload_2FP9n0_5FowYea_2Fada.mp3_3Fsbsr_3D272bd7fb7f8c4235469570e5bcc978eaab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"adam",
@@ -73,7 +73,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
             audio: "https://dc583.4shared.com/img/OXuzSGVnea/318236f8/dlink__2Fdownload_2FOXuzSGVnea_2Fadam.mp3_3Fsbsr_3D62aa231fbe508af0551d17ebdceffa9dab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Adan",
@@ -82,7 +82,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
             audio: "https://dc583.4shared.com/img/FR8CQAaTea/be89b406/dlink__2Fdownload_2FFR8CQAaTea_2Fadan.mp3_3Fsbsr_3D3ddc15e98e94762ba6a6a68750a66a22ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"adela",
@@ -91,7 +91,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://dc606.4shared.com/img/dvdxu8Uhiq/5be1eef/dlink__2Fdownload_2Fdvdxu8Uhiq_2Fadela.mp3_3Fsbsr_3D10865da302e61ae330e119ee42f88848ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"adnan",
@@ -100,7 +100,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://dc583.4shared.com/img/eXva7qzrea/f0414594/dlink__2Fdownload_2FeXva7qzrea_2Fadnan.mp3_3Fsbsr_3Dd2774816a871ea4e34d9a9d978e44fb5ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"adolfo",
@@ -109,7 +109,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/NBHs03T_ea/2183fedd/dlink__2Fdownload_2FNBHs03T_5Fea_2Fadolfo.mp3_3Fsbsr_3D1f1f2767c19a55c7629f97e74a3c5d7eab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Adria",
@@ -118,7 +118,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://dc583.4shared.com/img/oaAg-XkIea/dee288ac/dlink__2Fdownload_2FoaAg-XkIea_2Fadria.mp3_3Fsbsr_3Dc926f39b38e860ae77ad940ba5625b8bab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"adriadna",
@@ -127,7 +127,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://dc583.4shared.com/img/fppzrF_2ea/bbf1dbf7/dlink__2Fdownload_2FfppzrF_5F2ea_2Fadriadna.mp3_3Fsbsr_3Dd32cf3d27ebd7c8c12492c9f27c4f118ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"adrian",
@@ -136,7 +136,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/f0VkA3l5ea/9ea2e4bd/dlink__2Fdownload_2Ff0VkA3l5ea_2Fadrian.mp3_3Fsbsr_3D9530d9181c1c20840fa86ef0e9eb4320ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Adriana",
@@ -145,7 +145,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://dc583.4shared.com/img/NHkbfE5Jea/fc618f97/dlink__2Fdownload_2FNHkbfE5Jea_2Fadriana.mp3_3Fsbsr_3Dc5f7646ab0ce19858ca4273ad90fb432ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Africa",
@@ -154,7 +154,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://dc606.4shared.com/img/gsbTWFK-iq/a504fa47/dlink__2Fdownload_2FgsbTWFK-iq_2Fafrica.mp3_3Fsbsr_3Dd93af24266ebc8aebfedf929188dfa41ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Agata",
@@ -163,7 +163,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/39bq7pDbea/3aa205d3/dlink__2Fdownload_2F39bq7pDbea_2Fagata.mp3_3Fsbsr_3D3eaebe36c0812f72ddcfea32e148552bab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"agnes",
@@ -172,7 +172,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://dc606.4shared.com/img/tLzS0rKFiq/51957e44/dlink__2Fdownload_2FtLzS0rKFiq_2Fagnes.mp3_3Fsbsr_3Dff08013e13fa0ba0197dcaf3acbf3ea8ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Agus",
@@ -181,7 +181,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://dc606.4shared.com/img/8ERRsgeNiq/5e8c9c41/dlink__2Fdownload_2F8ERRsgeNiq_2Fagus.mp3_3Fsbsr_3D263dbc0df3677052cde75d9cd5d091d7ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Agusti",
@@ -190,7 +190,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/YB9EX6WUea/acf9bb0e/dlink__2Fdownload_2FYB9EX6WUea_2Fagusti.mp3_3Fsbsr_3D3293220ebbff90f1b06ca0a045f24cc1ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Agustin",
@@ -199,7 +199,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/t7A5iINKea/4ceb9278/dlink__2Fdownload_2Ft7A5iINKea_2Fagustin.mp3_3Fsbsr_3D27253ad760fbcb2e2437d83f3c1cb977ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Ahlame",
@@ -208,7 +208,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/l2dnxCCiea/dafb21c7/dlink__2Fdownload_2Fl2dnxCCiea_2Fahlam.mp3_3Fsbsr_3Df39ce5fb7110e8bf39883484c60c524aab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"Ahmed",
@@ -217,7 +217,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/E6_XxRv4ea/1428e15a/dlink__2Fdownload_2FE6_5FXxRv4ea_2Fahmed.mp3_3Fsbsr_3D9a6a1d5f1098f2355d571854a2906726ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"aicha",
@@ -226,7 +226,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/HzpippB2iq/5dc6d9b3/dlink__2Fdownload_2FHzpippB2iq_2Faicha.mp3_3Fsbsr_3D19c8f61b3d7cfcf31db10238c01981e0ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"aida",
@@ -235,7 +235,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/tYb50FN_ea/4192fe77/dlink__2Fdownload_2FtYb50FN_5Fea_2Faida.mp3_3Fsbsr_3D6214b485c85aeeb4f6d42c0bd931b858ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"aiman",
@@ -244,7 +244,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/AYgxe9Utea/72814eef/dlink__2Fdownload_2FAYgxe9Utea_2Faiman.mp3_3Fsbsr_3D20645366191f6d6f1f9f1e86d78da151ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"aina",
@@ -253,7 +253,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/VoF_kdj1ea/beb1d490/dlink__2Fdownload_2FVoF_5Fkdj1ea_2Faina.mp3_3Fsbsr_3Db0c657389e3392c3bece7862b9aa6453ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"ainara",
@@ -262,7 +262,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/C-kCgoaKiq/69d59003/dlink__2Fdownload_2FC-kCgoaKiq_2Fainara.mp3_3Fsbsr_3D127f70cadac0244184e230730d14acf2ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: false,
+            active: false,e,
         },
         {
             name:"ainhoa",
@@ -271,7 +271,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/AIb9UFi-iq/d72ef887/dlink__2Fdownload_2FAIb9UFi-iq_2Fainhoa.mp3_3Fsbsr_3Dae348c25c4ab4c42e152ebd6d95e287bab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
         {
             name:"ainoa",
@@ -280,7 +280,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/Emj9PD4Cea/91ea7387/dlink__2Fdownload_2FEmj9PD4Cea_2Fainoa.mp3_3Fsbsr_3D75b0943e23eeea68288015b8b87fbcd4ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
         {
             name:"aitana",
@@ -289,7 +289,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/10aRJ_t7ea/e042ed3f/dlink__2Fdownload_2F10aRJ_5Ft7ea_2Faitana.mp3_3Fsbsr_3Dddacb07ca5d6ed01d8d012ecc3974667ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
         {
             name:"aitor",
@@ -298,7 +298,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/iHSvDM-Piq/926ea7e9/dlink__2Fdownload_2FiHSvDM-Piq_2Faitor.mp3_3Fsbsr_3Deb08a505ace271320ab7f2fe7e826b72ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
         {
             name:"aixa",
@@ -307,7 +307,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/v3UDcNaZea/fdb0cc09/dlink__2Fdownload_2Fv3UDcNaZea_2Faixa.mp3_3Fsbsr_3Dcfe80ea4c222cc651df116e41ec89842ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },    
         {
             name:"akram",
@@ -316,7 +316,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/6Ntinq7fiq/d65c17b4/dlink__2Fdownload_2F6Ntinq7fiq_2Fakram.mp3_3Fsbsr_3D8fc062668f1356ab1897fba70f302e07ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
         {
             name:"alan",
@@ -325,7 +325,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/nM9pTk9Tiq/989db7d2/dlink__2Fdownload_2FnM9pTk9Tiq_2Falan.mp3_3Fsbsr_3Dfba0eee506e2d14331053b65477e8c40ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
         {
             name:"alba",
@@ -334,7 +334,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/78FzsJp3iq/fa5edcf8/dlink__2Fdownload_2F78FzsJp3iq_2Falba.mp3_3Fsbsr_3Dfe597426b2039224a4d97a098a96cefeab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
         {
             name:"albamaria",
@@ -343,7 +343,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/WM4tCjUziq/d19d66e2/dlink__2Fdownload_2FWM4tCjUziq_2Falbamaria.mp3_3Fsbsr_3D43c1d1e9df956f07ea751a5d6d1d9d51ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
         {
             name:"alberto",
@@ -352,7 +352,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/2rpAgVp0ea/2e3bd0fb/dlink__2Fdownload_2F2rpAgVp0ea_2Falberto.mp3_3Fsbsr_3Dc855dc3f4f3c35d3907099ef4f9265b8ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
         {
             name:"aleix",
@@ -361,7 +361,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/ZXkB99_Hiq/b88e87ff/dlink__2Fdownload_2FZXkB99_5FHiq_2Faleix.mp3_3Fsbsr_3D4979b3884790c6004e26b11f7638b2f4ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alejandra",
@@ -370,7 +370,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/h4ol--lYea/1a21c8bf/dlink__2Fdownload_2Fh4ol--lYea_2Falejandra.mp3_3Fsbsr_3D126295e19108c9d2eb3ff56f857f9832ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alejandro",
@@ -379,7 +379,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/Yy0yvy_hiq/bca61ff6/dlink__2Fdownload_2FYy0yvy_5Fhiq_2Falejandro.mp3_3Fsbsr_3Df0997383ee682046aac873bcb57d85f1ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alessandro",
@@ -388,7 +388,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/jibPHFZ6iq/55cceb37/dlink__2Fdownload_2FjibPHFZ6iq_2Falessandro.mp3_3Fsbsr_3D2d76905ac073839a9e8e10f0b2450a66ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alessia",
@@ -397,7 +397,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/Y-y1DH2ziq/54246768/dlink__2Fdownload_2FY-y1DH2ziq_2Falessia.mp3_3Fsbsr_3D7742b34f1b80c7f1f8f6af1efbbc561bab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alex",
@@ -406,7 +406,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/bCMP1KZpiq/e9fe3f39/dlink__2Fdownload_2FbCMP1KZpiq_2Falex.mp3_3Fsbsr_3D4ff2b6e69b170fa3d4ad818109c731f6ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alexander",
@@ -415,7 +415,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/uRacxVz4ea/6baae19b/dlink__2Fdownload_2FuRacxVz4ea_2Falexander.mp3_3Fsbsr_3D40bf2207bafc463081824e818f5d6d84ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alexandra",
@@ -424,7 +424,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/SRAM3XsGea/e5a2812c/dlink__2Fdownload_2FSRAM3XsGea_2Falexandra.mp3_3Fsbsr_3D912772968d11d3566f66c134340918c0ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alexandre",
@@ -433,7 +433,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/IprfFJA6ea/5b59e9a8/dlink__2Fdownload_2FIprfFJA6ea_2Falexandre.mp3_3Fsbsr_3D9e4f8bf49839f2a251fc6ea8a8235244ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alexia",
@@ -442,7 +442,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/TUmDxEqOea/9b51a107/dlink__2Fdownload_2FTUmDxEqOea_2Falexia.mp3_3Fsbsr_3D7b93a07a427dd99a073b84896dd121e8ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alez",
@@ -451,7 +451,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/mSg22Sgqea/a84b406b/dlink__2Fdownload_2FmSg22Sgqea_2Falez.mp3_3Fsbsr_3Dfae0803c52b037b0e560b7fe3d1bc94cab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alfonso",
@@ -460,7 +460,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/5aha6mjrea/d6da4493/dlink__2Fdownload_2F5aha6mjrea_2Falfonso.mp3_3Fsbsr_3D352c7a2fe53d5717e91b3897aa1048ceab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alfred",
@@ -469,7 +469,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc606.4shared.com/img/bp-wS6UTiq/a716b6ee/dlink__2Fdownload_2Fbp-wS6UTiq_2Falfred.mp3_3Fsbsr_3D24594fbe1f094046dc1dfbd308a3dba9ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alfredo",
@@ -478,7 +478,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/LfgiPm7mea/44a033b3/dlink__2Fdownload_2FLfgiPm7mea_2Falfredo.mp3_3Fsbsr_3D49bd1157e04fb00088f77769120c47e2ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"ali",
@@ -487,7 +487,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/o3hbeDPtiq/cd0d4e97/dlink__2Fdownload_2Fo3hbeDPtiq_2Fali.mp3_3Fsbsr_3D0afe5674fa7874209f042f428dd74891ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alicia",
@@ -496,7 +496,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/EjEhPc7Sea/ed92b3b0/dlink__2Fdownload_2FEjEhPc7Sea_2Falicia.mp3_3Fsbsr_3Dae9ff8d7bd34487ee65deb600748cbdeab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
+            active: false,
          },
          {
             name:"alma",
@@ -505,10 +505,11 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc583.4shared.com/img/y-H3Lh37ea/9ddaef71/dlink__2Fdownload_2Fy-H3Lh37ea_2Falma.mp3_3Fsbsr_3Dce394ed330a3bfd58390710f5a535813ab7_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
-            active: fals
-       },
+            active: false,
+         },
+        
+        
     ];
 }
 
 export default chillHop;
-
